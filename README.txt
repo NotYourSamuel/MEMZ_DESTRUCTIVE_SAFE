@@ -9,7 +9,8 @@
   
   ~~ -- IMPORTANT READ -- ~~
   Please note that this program will still crash the system, meaning
-  that whatever is not Please note that this program will still crash the system, meaning that whatever is not saved will be lost. I don't take any responsibility for any damage or work loss done. saved will be lost. I don't take any responsibility for 
-  any damage or work loss done.
-  
+  that whatever is not Please note that this program will still crash the system, 
+  meaning that whatever is not saved will be lost. I don't take any responsibility 
+  for any damage or work loss done.
+
   Have Fun!
